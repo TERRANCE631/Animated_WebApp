@@ -8,7 +8,9 @@ import { Footer } from "./Components/Footer";
 
 function App() {
   return (
-    <main className="reletive min-h-screen w-screen overflow-x-hidden">
+    <main
+      className="reletive min-h-screen w-screen overflow-x-hidden"
+    >
       <NavBar />
       <Hero />
       <About />
